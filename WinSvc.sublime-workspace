@@ -1,0 +1,763 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"try",
+				"try\tTry/Except/Else"
+			],
+			[
+				"__",
+				"__name__"
+			],
+			[
+				"__svc",
+				"__svc_display_name_"
+			],
+			[
+				"__svc_",
+				"__svc_reg_class"
+			],
+			[
+				"Log",
+				"LogInfoMsg"
+			],
+			[
+				"wmi",
+				"WMIinstance"
+			],
+			[
+				"exc_",
+				"exc_type"
+			],
+			[
+				"exc",
+				"exc_tb"
+			],
+			[
+				"Get",
+				"GetUserName"
+			],
+			[
+				"win32",
+				"win32serviceutil"
+			],
+			[
+				"file",
+				"BACKUP_FILE_MAIL"
+			],
+			[
+				"BACK",
+				"BACKUP_PATH"
+			],
+			[
+				"Al",
+				"AliaseTab"
+			],
+			[
+				"local",
+				"local_part"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "setup.py",
+			"settings":
+			{
+				"buffer_size": 678,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "setup.py"
+			}
+		},
+		{
+			"file": "TimeLogging.py",
+			"settings":
+			{
+				"buffer_size": 4903,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "TimeLogging.Test.py",
+			"settings":
+			{
+				"buffer_size": 1340,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "TimeLogging.Test.py"
+			}
+		},
+		{
+			"file": "admin.py",
+			"settings":
+			{
+				"buffer_size": 2937,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "admin.py"
+			}
+		},
+		{
+			"file": "WinSvc.sublime-project",
+			"settings":
+			{
+				"buffer_size": 70,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Run Server",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Run Server",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"last_filter": "sspy",
+		"selected_items":
+		[
+			[
+				"sspy",
+				"Set Syntax: Python"
+			],
+			[
+				"sspy\t",
+				"Set Syntax: Python"
+			],
+			[
+				"ssbash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"browse",
+				"SFTP: Browse Remote…"
+			],
+			[
+				"ssC#",
+				"Set Syntax: C#"
+			],
+			[
+				"ssht",
+				"Set Syntax: HTML"
+			],
+			[
+				"ssJS",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ss",
+				"Set Syntax: C#"
+			],
+			[
+				"ssc#",
+				"Set Syntax: C#"
+			],
+			[
+				"sshtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"html",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"ssxml",
+				"Set Syntax: XML"
+			],
+			[
+				"ssJA",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ssHtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"ssjs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ssSQL",
+				"Set Syntax: SQL"
+			],
+			[
+				"sspl",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"sshtml\t",
+				"Set Syntax: HTML"
+			],
+			[
+				"ssjavascript",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ssjavas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ssshe",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"sssql",
+				"Set Syntax: SQL"
+			],
+			[
+				"ssPla",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 440.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Bill/Documents/Python Project/TimeLogging"
+	],
+	"file_history":
+	[
+		"/C/Users/Bill/Documents/Python Project/WinSvc/TimeLogging.py",
+		"/C/Users/Bill/Documents/Python Project/WinSvc/service.py",
+		"/C/Users/Bill/Documents/Python Project/WinSvc/main.py",
+		"/C/Users/Bill/Documents/Python Project/controller.py",
+		"/C/Users/Bill/Documents/Flask_RESTFul/Flask_RESTFul/controller.py",
+		"/C/Users/Bill/Documents/Python Project/WinSvc/WinSvc.sublime-project",
+		"/C/Users/Bill/Documents/Python Project/Flask-RESTFul/Flask_RESTFul/controller.py",
+		"/C/Users/Bill/Documents/Python Project/Flask-RESTFul/sftp-config.json",
+		"/C/Users/Bill/Documents/Python Project/Flask-RESTFul/Flask-RESTFul.sublime-project",
+		"/C/Users/Bill/Documents/Python Project/Flask-RESTFul/Flask-RESTFul/controller.py",
+		"/C/Users/Bill/Documents/Python Project/Flask-RESTFul/Flask-RESTFul/__init__.py",
+		"/C/Users/Bill/Downloads/Flask-Maruta.sublime-project",
+		"/C/Users/Bill/Downloads/Django-Maruta.sublime-project",
+		"/C/Users/Bill/Downloads/test.xml",
+		"//saturn/Upload/MoroMall/ProductsFeedOutput_LocalAdmin.xml",
+		"/C/Users/Bill/Documents/New folder (3)/tracking7_2016127.txt",
+		"/C/Users/Bill/Documents/New folder (3)/Error_OrderTable_7_2016127.txt",
+		"/C/Users/Bill/Documents/New folder (3)/Notice(OrderChange).txt7_2016127.txt",
+		"/C/Users/Bill/Documents/test.xml",
+		"/C/Users/Bill/Desktop/Test.xml",
+		"/C/Users/Bill/Source/Workspaces2/XAmazonScheduler OLE/XAmazonScheduler/bin/Debug/www.SkHatShop.com/B016WZYB06_socks_fuzzy-f41_b_assorted-6.txt",
+		"/C/Users/Bill/Documents/New folder (3)/GetEbayListingError6.txt",
+		"/C/Users/Bill/Source/LatestBackup/XAmazonScheduler OLE/XAmazonScheduler/Scheduler/AmazonController.cs",
+		"/C/Users/Bill/Source/Workspaces2/MoroMall.com/.nuget/NuGet.targets",
+		"/C/Users/Bill/Source/Workspaces2/MoroMall.com/eShop/packages.config",
+		"/C/Users/Bill/Source/Workspaces2/WieWestNYC.Com/eShop/packages.config",
+		"/C/Users/Bill/Source/Workspaces2/WieWestNYC.Com/packages/repositories.config",
+		"/C/Users/Bill/Source/Workspaces2/WieWestNYC.Com/.nuget/packages.config",
+		"/C/Users/Bill/Source/Workspaces2/MoroMall.com/.nuget/NuGet.Config",
+		"/C/Users/Bill/Source/Workspaces2/WieWestNYC.Com/.nuget/NuGet.Config",
+		"/C/Users/Bill/Source/Workspaces2/WieWestNYC.Com/eShop/Web.config",
+		"/C/Users/Bill/Downloads/MWSProductsCSharpClientLibrary-2011-10-01._V269521071_/LICENSE.txt",
+		"/C/Users/Bill/Downloads/MWSProductsCSharpClientLibrary-2011-10-01._V269521071_/NOTICE.txt",
+		"/C/Users/Bill/Source/LatestBackup/MoroMall.com/eShop/Web.config",
+		"/C/Users/Bill/Source/LatestBackup/MoroMall.com/eShop/Web.Release.config",
+		"/C/Users/Bill/Source/LatestBackup/MoroMall.com/eShop/Web.Debug.config",
+		"/C/Users/Bill/Documents/IISExpress/config/applicationhost.config",
+		"/C/Users/Bill/Downloads/ICU/OSP.center.vssscc",
+		"/C/Users/Bill/Downloads/ICU/OSP.center.csproj.vspscc",
+		"/C/Users/Bill/Source/Workspaces2/OSP.center/eShop/OSP.center.csproj",
+		"/C/Users/Bill/Downloads/ICU/OSP.center.csproj",
+		"/C/Users/Bill/Source/Workspaces2/OSP.center/OSP.center.sln",
+		"/C/Users/Bill/Downloads/ICU/OSP.center.sln",
+		"/C/Users/Bill/Source/LatestBackup/Smartphone.xinno.com/eShop/Controllers/EmailAdminController.cs",
+		"/C/Users/Bill/Downloads/README",
+		"/C/Users/Bill/login.html",
+		"/C/Users/Bill/Documents/Visual Studio 2013/Team Foundation/Projects/XNeweggScheduler/XNeweggScheduler/Model/NewEggModel.cs",
+		"/C/Users/Bill/Documents/Visual Studio 2013/Team Foundation/Projects/XSearsScheduler OLE/XSearsScheduler/Model/NeweggProduct.cs",
+		"/C/Users/Bill/Documents/Visual Studio 2013/Team Foundation/Projects/XNeweggScheduler/XNeweggScheduler/Model/Order.cs",
+		"/C/Users/Bill/Documents/Weekly Report/20161010 ~ 20161014.txt",
+		"/C/Users/Bill/Documents/New folder/Task_Parallelism/Psarallelworkload/Program.cs",
+		"/C/Users/Bill/Documents/New folder/Task_Parallelism/Parallel/Program.cs",
+		"/C/Users/Bill/Documents/New folder/Task_Parallelism/Parallel/SimpleScheduler.cs",
+		"/C/Users/Bill/Documents/New folder/Task_Parallelism/Parallel/TaskSchedulter.cs",
+		"/C/Users/Bill/Documents/New folder/WindowsService1/WindowsService1/Service1.cs",
+		"/C/Users/Bill/Documents/New folder/WindowsService1/WindowsService1/Program.cs"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 112.0,
+		"where_history":
+		[
+			"<open files>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"pythoncom",
+			"module_path",
+			"module_file",
+			"Arrived",
+			"cls",
+			"LogInfoMsg",
+			"self.UserName",
+			"UserName",
+			"GetUserName",
+			"self.server",
+			"sendHeartbeat",
+			"TimeLogging",
+			"LogMsg",
+			"self.stop_event",
+			"self.timeout",
+			"str(response.json)",
+			"    ",
+			"modules",
+			"activate_this",
+			"/var/www",
+			" / ",
+			"/var/www/Flask_RESTFul",
+			"yourapplication",
+			"Flask-RESTFul",
+			"sys.stderr",
+			"Flask-RESTFul/Flask-RESTFul/",
+			"/var/www/",
+			"FlaskApp",
+			"?",
+			" : null",
+			" = ",
+			"',",
+			",",
+			"'\n",
+			"\n",
+			"</",
+			"style",
+			"div|iframe|span",
+			":",
+			"div|iframe|span",
+			"div|iframe",
+			" as int? ",
+			"<",
+			"public ",
+			"public Nullable<decimal>",
+			"public bool",
+			"public short",
+			"public Nullable<int>",
+			"public string",
+			"public decimal",
+			"public int",
+			" { get; set; }",
+			"DateTime",
+			" as ",
+			"<",
+			"public ",
+			"public",
+			"public Nullable<int>",
+			"public Nullable<decimal>",
+			"public bool ",
+			"DateTime",
+			"public System.DateTime",
+			"public Nullable<double>",
+			"public double",
+			"public decimal ",
+			"public decimal",
+			"public string ",
+			"int ",
+			"{ get; set; }",
+			">",
+			"public ",
+			"public string ",
+			"public int ",
+			" { get; set; }",
+			"using (OleDbTransaction trans = conn.BeginTransaction()) {",
+			"trans.Commit",
+			"using (OleDbTransaction trans = conn.BeginTransaction()) {",
+			"</p>",
+			"<p>",
+			"p>",
+			"<p",
+			"<p>",
+			"span",
+			" /",
+			" style=\"line-height: 20.8px;\"",
+			".FirstOrDefault(),",
+			" { get; set; }",
+			"  +",
+			" +",
+			"\"",
+			"ProductOption.",
+			"\"+",
+			"\"",
+			" Product.",
+			"Product.",
+			"Product",
+			"\"",
+			"??0",
+			");",
+			"\",",
+			"\"",
+			"FULL",
+			" \"",
+			"\n",
+			"<br style=\"line-height: 20.8px;\" />",
+			"</span>",
+			"<span style=\"line-height: 20.8px;\">",
+			"<span style=\"font-size: 12px;\">",
+			"<b>",
+			"bx;\"",
+			"span style=",
+			"br style=",
+			"</span>",
+			"<span>",
+			" style=x;",
+			"span style=",
+			"<span style=",
+			"<span style=\"font-size: 12px;\">",
+			"Update",
+			"p style=\"",
+			"<p><p>",
+			"style=\"color: rgb(0, 0, 0); font-family: arial, helvetica, sans-serif; font-weight: bold;\"",
+			"span",
+			"<span",
+			"<span>",
+			"<span",
+			"span ",
+			"style="
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "setup.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 678,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								375,
+								375
+							]
+						],
+						"settings":
+						{
+							"auto_name": "setup.py",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "TimeLogging.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4903,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								844,
+								844
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "TimeLogging.Test.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1340,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								219,
+								219
+							]
+						],
+						"settings":
+						{
+							"auto_name": "TimeLogging.Test.py",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "admin.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2937,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1163,
+								1163
+							]
+						],
+						"settings":
+						{
+							"auto_name": "admin.py",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "WinSvc.sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 70,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								67,
+								67
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 128.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 128.0
+	},
+	"pinned_build_system": "Packages/Virtualenv/Python + Virtualenv.sublime-build",
+	"project": "WinSvc.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
